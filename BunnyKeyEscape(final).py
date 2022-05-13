@@ -1,4 +1,4 @@
-#Brute force and ignorance?
+#Final version
 from itertools import combinations as combi
 
 def solution(n,k):
