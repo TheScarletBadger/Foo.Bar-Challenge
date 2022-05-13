@@ -41,6 +41,4 @@ def solution(x,y):
 
     return loopyloo(target)
 
-#print(solution('3000000000000000000000000000000000000001',str(10**50)))
-print(solution('7','4'))
 
