@@ -12,8 +12,7 @@ def solution(n,k):
     scheme = [[] for x in range(0,n)]
     
     #in 'subsets' row indices are key type names and elements are rabbit names
-    #so we just need todo the old switcheroo
-    
+    #so we just need todo the old switcharoo
     for r in range(0,len(subsets)):
         subsrow = subsets[r]
         for c in range(0,len(subsrow)):
